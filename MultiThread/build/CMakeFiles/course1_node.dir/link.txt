@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/course1_node.dir/course1.cpp.o  -o course1_node  -lpthread 

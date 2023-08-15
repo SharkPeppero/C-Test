@@ -1,0 +1,3 @@
+/home/xu/C++Test/MultiThread/build/CMakeFiles/rebuild_cache.dir
+/home/xu/C++Test/MultiThread/build/CMakeFiles/edit_cache.dir
+/home/xu/C++Test/MultiThread/build/CMakeFiles/course1_node.dir
